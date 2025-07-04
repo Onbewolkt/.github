@@ -1,4 +1,4 @@
-![404nova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=404nova&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Open Source at Microsoft](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png)
 
 ## Get Involved
 Hey, I'm **404nova** — passionate about open source, community collaboration, and building useful tools with great people. Right now, I'm working on exciting projects like my school management platform [gradient.nu](https://gradient.nu) and running my tech company [numblio.com](https://numblio.com), and there are excellent opportunities if you're looking to get involved or collaborate.
