@@ -19,9 +19,6 @@ I have experience across the full spectrum of modern development:
 - **Web Technologies**: All modern web development tools and frameworks
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=404nova&theme=radical)
-
-Visit my school management platform at [gradient.nu](https://gradient.nu) and learn more about my tech company at [numblio.com](https://numblio.com)!
-
 ---
 
 All projects I work on follow open source principles and community collaboration standards. I believe in transparent development, inclusive contribution, and building tools that make developers' lives easier.
