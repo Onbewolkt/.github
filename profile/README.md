@@ -21,30 +21,6 @@ Currently building at [**@ordnary-com**](https://github.com/ordnary-com).
 
 ---
 
-## Featured Projects
-
-### 🔗 [NetworkDataAPI](https://github.com/7txr/NetworkDataAPI)
-> **Enterprise-grade shared MongoDB connection layer for distributed server networks** · `Java` · `MongoDB` · `Caffeine` · `REST`
-
-A production-ready data synchronization solution architected for high-concurrency server networks. Instead of each plugin managing its own database connections — causing connection storms at scale — NetworkDataAPI exposes a **shared MongoDB connection pool** consumed by all plugins simultaneously, reducing total connections by 80%+ on a typical 5-server network.
-
-**Architecture highlights:**
-- Multi-module Maven project with isolated `core`, `paper`, `bungee`, and `example-plugin` modules — the core is platform-agnostic, platform modules provide thin adapter layers
-- **Caffeine-backed in-memory cache** with configurable TTL and max-size, achieving 85–95% cache hit rates in production workloads
-- Fully async API built on `CompletableFuture` thread pools (`core-pool-size` / `max-pool-size` configurable) — zero blocking on the main server thread
-- Optional **REST API** (Spark Java) exposing `/api/player/{uuid}` CRUD endpoints, secured via `X-API-Key` header, for external service integrations
-- CodeQL, Maven CI, and build/release pipelines via **GitHub Actions**
-- Benchmarks: `<5ms` for cached reads, `<50ms` for live MongoDB queries, supports `1000+` concurrent operations
-
----
-
-### 🖼️ [YEETIFF](https://github.com/7txr/YEETIFF)
-> **Custom image container format with transcoding pipeline** · `Python`, `Rust`
-
-An experimental image file format specification and transcoding toolchain — *Yet Even Extremely Expressier Transcoded Image File Format*. Built to explore custom binary encoding, metadata schemas, and image pipeline design at a low level.
-
----
-
 ## Tech Stack
 
 ### Languages
