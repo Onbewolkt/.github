@@ -6,8 +6,8 @@
 
 [![Website](https://img.shields.io/badge/website-ordnary.com-0a0a0a?style=flat-square&logo=vercel&logoColor=white)](https://ordnary.com)
 [![Org](https://img.shields.io/badge/building_at-@ordnary--com-1f6feb?style=flat-square&logo=github&logoColor=white)](https://github.com/ordnary-com)
-[![Profile Views](https://komarev.com/ghpvc/?username=7txr&style=flat-square&color=blue&label=profile+views)](https://github.com/7txr)
-[![Followers](https://img.shields.io/github/followers/7txr?style=flat-square&label=followers&color=blue)](https://github.com/7txr?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=stijnwtf&style=flat-square&color=blue&label=profile+views)](https://github.com/7txr)
+[![Followers](https://img.shields.io/github/followers/stijnwtf?style=flat-square&label=followers&color=blue)](https://github.com/7txr?tab=followers)
 
 </div>
 
