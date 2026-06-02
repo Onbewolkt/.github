@@ -106,11 +106,11 @@ Currently building at [**@ordnary-com**](https://github.com/ordnary-com).
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=7txr&bg_color=0d1117&color=c9d1d9&line=1f6feb&point=ff6b35&area=true&hide_border=true" alt="Activity Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=stijnwtf&bg_color=0d1117&color=c9d1d9&line=1f6feb&point=ff6b35&area=true&hide_border=true" alt="Activity Graph" />
 
 <br/>
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=7txr&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=stijnwtf&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -120,14 +120,14 @@ Currently building at [**@ordnary-com**](https://github.com/ordnary-com).
 
 Open source thrives on collaboration. Feedback, bug reports, and pull requests are always welcome.
 
-- 📂 [Browse my repositories](https://github.com/7txr?tab=repositories)
-- ⭐ [See what I'm starring](https://github.com/7txr?tab=stars)
+- 📂 [Browse my repositories](https://github.com/stijnwtf?tab=repositories)
+- ⭐ [See what I'm starring](https://github.com/stijnwtf?tab=stars)
 - 🏢 [Check out Ordnary](https://github.com/ordnary-com)
 
 ---
 
 <div align="center">
 
-<sub>Built with care · <a href="https://github.com/7txr">@7txr</a></sub>
+<sub>Built with care · <a href="https://github.com/stijnwtf">@stijnwtf</a></sub>
 
 </div>
