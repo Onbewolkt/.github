@@ -108,10 +108,6 @@ Currently building at [**@ordnary-com**](https://github.com/ordnary-com).
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=stijnwtf&bg_color=0d1117&color=c9d1d9&line=1f6feb&point=ff6b35&area=true&hide_border=true" alt="Activity Graph" />
 
-<br/>
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=stijnwtf&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
-
 </div>
 
 ---
