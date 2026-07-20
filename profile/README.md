@@ -2,7 +2,7 @@
 
 # Hi, I am Stijn
 
-**Software Engineer** — distributed systems, developer tooling, full-stack platforms.
+**Software Engineer** building distributed systems, developer tooling, and full-stack platforms.
 
 [![Website](https://img.shields.io/badge/website-ordnary.com-0a0a0a?style=flat-square&logo=vercel&logoColor=white)](https://ordnary.com)
 [![Org](https://img.shields.io/badge/building_at-@ordnary--com-1f6feb?style=flat-square&logo=github&logoColor=white)](https://github.com/ordnary-com)
@@ -15,7 +15,7 @@
 
 ## About
 
-I build production-grade tools and distributed systems across the stack — from low-level Java networking and event-driven backend architecture to TypeScript frontends and mobile applications. Strong interest in open source, performance engineering, and developer tooling.
+I build production-grade tools and distributed systems across the stack: Rust for high-performance networking and systems-level services, Go for backend infrastructure, and TypeScript across frontends and mobile applications. Strong interest in open source, performance engineering, and developer tooling.
 
 Currently building at [**@ordnary-com**](https://github.com/ordnary-com).
 
@@ -24,12 +24,12 @@ Currently building at [**@ordnary-com**](https://github.com/ordnary-com).
 ## Tech Stack
 
 ### Languages
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
